@@ -25,6 +25,9 @@
 <img width="1280" height="443" alt="image" src="https://github.com/user-attachments/assets/cef92877-49d6-4246-ba55-209fe0419055" />
 <img width="1280" height="494" alt="image" src="https://github.com/user-attachments/assets/d57cb86c-aa10-4f15-8d7a-2fe76e31bec5" />
 
+- **Логирование**
+<img width="606" height="146" alt="image" src="https://github.com/user-attachments/assets/7c04f6fc-0ad5-431f-b664-ceaefd2e26a7" />
+
 ### Дополнительная часть
 
 - **PATCH /tasks/{id}** - обновление задачи
