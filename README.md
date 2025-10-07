@@ -1,6 +1,9 @@
 # Седова М. А., ЭФМО-01-25
 # Практическое задание 3 Реализация простого HTTP-сервера на стандартной библиотеке net/http. Обработка запросов GET/POST
 
+- **Дерево проекта**
+<img width="465" height="654" alt="image" src="https://github.com/user-attachments/assets/dd3d0330-2b9f-486b-abf9-78cacfdb7f9b" />
+
 ### Обязательная часть
 - **GET /health** - возвращает `{"status":"ok"}`
 <img width="1086" height="495" alt="image" src="https://github.com/user-attachments/assets/cc6dd79c-ff68-47f4-80a3-4287c87a6531" />
@@ -41,19 +44,14 @@
 - **Graceful shutdown**
 <img width="570" height="57" alt="image" src="https://github.com/user-attachments/assets/df754541-7960-4719-a3c9-e1eb061f4b2c" />
 
-
-Файл REQUESTS.md содержит Postman коллекцию
-
 - **Переменная PORT** - порт настраивается через $env:PORT
 <img width="628" height="82" alt="image" src="https://github.com/user-attachments/assets/6aacb055-f50d-45b2-afcc-1b44bb18827f" />
+
+- ***Юнит-тесты** - 5 тестов в handlers_test.go с httptest
+<img width="702" height="306" alt="image" src="https://github.com/user-attachments/assets/ddddd282-b905-4952-a06f-bd329acd718c" />
 
 - **PowerShell-скрипт** - run.ps1 с командами run, build, test
 <img width="622" height="124" alt="image" src="https://github.com/user-attachments/assets/6b90c41b-ccdc-42ee-810b-c6e774008427" />
 <img width="826" height="314" alt="image" src="https://github.com/user-attachments/assets/42adc422-e3a8-4fad-966f-14f4c7ceeea8" />
 
-- ***Юнит-тесты** - 5 тестов в handlers_test.go с httptest
-<img width="702" height="306" alt="image" src="https://github.com/user-attachments/assets/ddddd282-b905-4952-a06f-bd329acd718c" />
-
-- **Дерево проекта**
-<img width="465" height="654" alt="image" src="https://github.com/user-attachments/assets/dd3d0330-2b9f-486b-abf9-78cacfdb7f9b" />
-
+### Файл REQUESTS.md содержит Postman коллекцию
